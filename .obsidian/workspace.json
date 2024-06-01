@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git For Beginers.md",
+                "file": "Git/Tag.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,8 +29,12 @@
             "id": "b84ef9570949e926",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Git/Git For Beginers.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Git For Beginers.md",
+                "file": "Git/Tag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Git For Beginers.md",
+                "file": "Git/Tag.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Git For Beginers.md"
+                "file": "Git/Tag.md"
               }
             }
           }
@@ -162,12 +166,16 @@
   },
   "active": "1746ed3e4201f08c",
   "lastOpenFiles": [
-    "Git/Commit.md",
     "Git/Git For Beginers.md",
+    "Git/Tag.md",
+    "Git/reset.md",
+    "Git/Ramas.md",
+    "Git/Commit.md",
+    "Git/config.md",
+    "Angular/Como crear un Proyecto de Angular..md",
     "Angular/Launch your app.md",
     "Angular/Untitled.md",
     "Angular/Lanza tu app.md",
-    "Angular/Como crear un Proyecto de Angular..md",
     "Git For Beginers.md",
     "Commit.md",
     "Angular/Componentes.md",

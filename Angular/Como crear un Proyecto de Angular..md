@@ -1,7 +1,9 @@
 Comandos:
 (Utilizando el CLI)
- _"ng new nombre-de-mi-app --standalone false/true"_
-  _"npm init @angular myAppName"_
+```CMD
+ng new nombre-de-mi-app --standalone false/true_
+npm init @angular myAppName
+```
 
 
 Una vez creado tu proyecto, [[Launch your app]]
@@ -15,3 +17,16 @@ Comunicación entre componentes: [[@Input]] [[@Output ]]
 Otros decoradores [[@Decoratores]]
 
 Escalabilidad: [[Service]] Pages Interfaces
+
+
+
+Para Instalar y Desinstalar Angular:
+(_Ambos comandos ejecutarse como administrador_)
+```CMD
+npm install -g @angular/cli@(version)
+```
+
+```CMD
+npm uninstall -g @angular/cli
+npm cache clean --force
+```
