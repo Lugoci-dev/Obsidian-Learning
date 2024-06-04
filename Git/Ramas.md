@@ -39,7 +39,7 @@ Note:
 
 
 Merch Automático:
-_Cuando en nuestra rama2 modificamos alguno de los archivos, y en un instante de tiempo superior a este cambio en nuestra rama1 hacemos alguna otra modificación (sin crear conflictos entre las modificaciones(no sean en el mismo archivo)) . El Merge automático se encargara de priorizar los cambios en función del tiempo._
+_Cuando en nuestra rama2 modificamos alguno de los archivos, y en un instante de tiempo superior a este cambio en nuestra rama1 hacemos alguna otra modificación (sin crear conflictos entre las modificaciones(no sean en el mismo archivo y linea)) . El Merge automático se encargara de priorizar los cambios en función del tiempo._
 
 
 Conflictos:

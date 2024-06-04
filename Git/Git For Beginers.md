@@ -1,4 +1,6 @@
-([[Commit]], [[reset]], [[config]], [[Ramas]], [[Tag]] )
+[[GitHub]]
+
+([[Commit]], [[reset]], [[config]], [[Ramas]], [[Tag]] , [[Stash, Rebase y Squash]])
 
 (_Creación de un usuario: git [[config]]_)
 ```CMD

@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Tag.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "3ecf5d4d049d3d1c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b84ef9570949e926",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Git For Beginers.md",
+                "file": "Git/reset.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Tipos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 200
   },
   "right": {
     "id": "f5bc2efdfb8a9048",
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Tag.md",
+                "file": "Git/reset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Tag.md",
+                "file": "Git/reset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Tag.md"
+                "file": "Git/reset.md"
               }
             }
           }
@@ -166,12 +148,25 @@
   },
   "active": "1746ed3e4201f08c",
   "lastOpenFiles": [
-    "Git/Git For Beginers.md",
-    "Git/Tag.md",
-    "Git/reset.md",
-    "Git/Ramas.md",
     "Git/Commit.md",
+    "Git/Git For Beginers.md",
+    "Css/Selectores.md",
+    "Css/Sintaxis de Css.md",
+    "Css/Style.css.md",
+    "Css/Overflow.md",
+    "Css/Box Model.md",
+    "Css/Border Radius.md",
+    "Css/Herencia.md",
+    "Css/Especificidad y Cascada.md",
+    "Css/Conexiones.md",
+    "2024-06-03.md",
+    "Git/GitHub.md",
+    "Css",
+    "Git/Stash, Rebase y Squash.md",
     "Git/config.md",
+    "Git/Ramas.md",
+    "Git/reset.md",
+    "Git/Tag.md",
     "Angular/Como crear un Proyecto de Angular..md",
     "Angular/Launch your app.md",
     "Angular/Untitled.md",
@@ -179,7 +174,6 @@
     "Git For Beginers.md",
     "Commit.md",
     "Angular/Componentes.md",
-    "Angular/Módulos y Componentes.md",
-    "Angular/@Input.md"
+    "Angular/Módulos y Componentes.md"
   ]
 }

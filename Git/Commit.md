@@ -1,4 +1,4 @@
-[[Ramas]]
+
 _*Un commit es como una fotografía de nuestro código*_
 
 ```CMD
