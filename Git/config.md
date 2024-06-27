@@ -1,4 +1,8 @@
 Muestra nuestras configuraciones hechas
+(_Para modificar la seguridad de git_)
+```CMD
+git config --global http.sslVerify false/true
+```
 (_Permite modificarlas_)
 ```CMD
 git config --global -e

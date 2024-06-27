@@ -41,4 +41,4 @@ _'Cada componente puede ser representado por medio de su selector siempre y cuan
 ```
 
 
-Comunicación entre componentes: [[@Input]] [[@Output ]]
+Comunicación entre componentes: [[@Input]] [[@Output ]] [[@Viewchild]]

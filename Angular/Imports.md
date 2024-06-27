@@ -40,3 +40,4 @@ export class DbzModule { }
 { CommonModule } from '@angular/common'    ___necesario para utilizar la propiedad de [ngClass] = ""
 
 import { FormsModule } from '@angular/forms'    ___permite utilizar las propiedades de [(ngModel)] = ""
+

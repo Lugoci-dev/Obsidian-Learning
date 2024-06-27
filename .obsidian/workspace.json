@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/reset.md",
+                "file": "DJango/Instalar Django.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8158943031023dd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b97b199b13ddfb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pip.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/reset.md",
+                "file": "DJango/Instalar Django.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/reset.md",
+                "file": "DJango/Instalar Django.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/reset.md"
+                "file": "DJango/Instalar Django.md"
               }
             }
           }
@@ -148,32 +166,33 @@
   },
   "active": "1746ed3e4201f08c",
   "lastOpenFiles": [
-    "Git/Commit.md",
-    "Git/Git For Beginers.md",
-    "Css/Selectores.md",
-    "Css/Sintaxis de Css.md",
+    "pip.md",
+    "DJango/Instalar Django.md",
+    "DJango/Configurar un entorno virtual.md",
+    "DJango/DJango Instalación.md",
     "Css/Style.css.md",
-    "Css/Overflow.md",
+    "Css/Sintaxis de Css.md",
+    "Css/Selectores.md",
+    "Css/Conexiones.md",
+    "Css/Especificidad y Cascada.md",
     "Css/Box Model.md",
+    "Css/Overflow.md",
+    "Angular/@Viewchild.md",
+    "DJango",
+    "Git/Git For Beginers.md",
+    "Git/config.md",
+    "Git/Commit.md",
+    "Angular/Imports.md",
+    "Angular/Componentes.md",
+    "Angular/Módulos.md",
+    "Angular/Service.md",
+    "Angular/Módulos y Componentes.md",
+    "Angular/@Input.md",
+    "Angular/@Output.md",
+    "Git/GitHub.md",
+    "Git/reset.md",
     "Css/Border Radius.md",
     "Css/Herencia.md",
-    "Css/Especificidad y Cascada.md",
-    "Css/Conexiones.md",
-    "2024-06-03.md",
-    "Git/GitHub.md",
-    "Css",
-    "Git/Stash, Rebase y Squash.md",
-    "Git/config.md",
-    "Git/Ramas.md",
-    "Git/reset.md",
-    "Git/Tag.md",
-    "Angular/Como crear un Proyecto de Angular..md",
-    "Angular/Launch your app.md",
-    "Angular/Untitled.md",
-    "Angular/Lanza tu app.md",
-    "Git For Beginers.md",
-    "Commit.md",
-    "Angular/Componentes.md",
-    "Angular/Módulos y Componentes.md"
+    "Css"
   ]
 }
